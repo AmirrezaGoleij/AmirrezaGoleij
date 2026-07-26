@@ -1,9 +1,12 @@
-<!-- بنر بزرگ با گرادیانت ست با تصویر پروفایل -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:FFD600,50:66BB6A,100:4FC3F7&text=Amirreza%20Goleij&fontSize=62&fontColor=0D1117&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Full-Stack%20Developer&descSize=20&descAlignY=58&animation=fadeIn" />
+<!-- بنر: بک‌گراند موج‌دار با انیمیشن دائمی (بدون متن ثابت) -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:FFD600,50:66BB6A,100:4FC3F7&animation=twinkling" />
 
+<!-- اسم متحرک با انیمیشن تایپ -->
 <div align="center">
 
-### 🎓 Software Engineering Student @ University of Guilan
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&duration=3000&pause=800&color=FFD600&center=true&vCenter=true&width=600&height=70&lines=Amirreza+Goleij" alt="Amirreza Goleij" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=40&lines=Software+Engineer+%7C+Full-Stack+Developer" alt="Software Engineer | Full-Stack Developer" />
 
 </div>
 
@@ -32,10 +35,10 @@
 <div align="center">
 
 <a href="https://github.com/AmirrezaGoleij/academic-notes-organizer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmirrezaGoleij&repo=academic-notes-organizer&hide_border=true&bg_color=0D1117&title_color=FFD600&text_color=58A6FF&icon_color=8B949E" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmirrezaGoleij&repo=academic-notes-organizer&hide_border=true&bg_color=0D1117&title_color=FFD600&text_color=58A6FF&icon_color=8B949E" alt="academic-notes-organizer" />
 </a>
 <a href="https://github.com/AmirrezaGoleij/ATM-Banking-Management-System-Cpp">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmirrezaGoleij&repo=ATM-Banking-Management-System-Cpp&hide_border=true&bg_color=0D1117&title_color=FFD600&text_color=58A6FF&icon_color=8B949E" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmirrezaGoleij&repo=ATM-Banking-Management-System-Cpp&hide_border=true&bg_color=0D1117&title_color=FFD600&text_color=58A6FF&icon_color=8B949E" alt="ATM-Banking-Management-System-Cpp" />
 </a>
 
 </div>
@@ -46,14 +49,10 @@
 
 <div align="center">
 
-<!-- حلقه دور اعداد: خاکستری خنثی -->
 <img src="https://github-readme-stats.vercel.app/api?username=AmirrezaGoleij&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFD600&icon_color=FFD600&text_color=58A6FF&ring_color=8B949E" alt="GitHub Stats" height="165" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirrezaGoleij&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFD600&text_color=58A6FF" alt="Top Languages" height="165" />
 
-<!-- Streak: حلقه خاکستری -->
 <img src="https://streak-stats.demolab.com?user=AmirrezaGoleij&hide_border=true&background=0D1117&ring=8B949E&fire=FFD600&currStreakNum=58A6FF&sideNums=58A6FF&currStreakLabel=FFD600&sideLabels=FFD600&dates=8B949E" alt="GitHub Streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AmirrezaGoleij&hide_border=true&bg_color=0D1117&color=58A6FF&line=FFD600&point=8B949E&title_color=FFD600&area=true&area_color=FFD600" alt="Activity Graph" width="95%" />
 
 </div>
 
@@ -68,5 +67,4 @@
 
 </div>
 
-<!-- موج پایانی برای بستن صفحه -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:4FC3F7,50:66BB6A,100:FFD600&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:4FC3F7,50:66BB6A,100:FFD600&section=footer&animation=twinkling" />
