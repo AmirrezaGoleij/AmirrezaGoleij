@@ -1,5 +1,5 @@
 <!-- هدر: دقیقا نسخه قبلی -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:FFD600,50:66BB6A,100:4FC3F7&text=Amirreza%20Goleij&fontSize=62&fontColor=0D1117&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Full-Stack%20Developer&descSize=20&descAlignY=58&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:FFD600,50:66BB6A,100:4FC3F7&text=Amirreza%20Goleij&fontSize=62&fontColor=0D1117&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer&descSize=20&descAlignY=58&animation=fadeIn" />
 
 ---
 
@@ -16,6 +16,9 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+
 
 </div>
 
@@ -67,11 +70,18 @@
 
 ## 📫 Contact
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amirrezagoleij)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@amirrezagoleij.com)
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:4FC3F7,50:66BB6A,100:FFD600&section=footer&animation=twinkling" />
+<p align="left">
+  <a href="mailto:contact@amirrezagoleij.com">
+    <img src="https://img.shields.io/badge/Email-contact@amirrezagoleij.com-00E676?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/amirrezagoleij" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-amirrezagoleij-58A6FF?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/AmirrezaGoleij" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-AmirrezaGoleij-FFD600?style=flat-square&logo=github&logoColor=black" />
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Phone-0900--9000--854-8B949E?style=flat-square&logo=whatsapp&logoColor=white" />
+</p>
