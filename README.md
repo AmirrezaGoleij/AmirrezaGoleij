@@ -70,12 +70,16 @@
 
 ## 📫 Contact
 
-<p align="left">
-  <a href="https://github.com/AmirrezaGoleij"><img src="https://img.shields.io/badge/GITHUB-21262D?style=for-the-badge&logo=github&logoColor=white" /></a> <b>AmirrezaGoleij</b> &#8195;
-  <a href="https://www.linkedin.com/in/amirrezagoleij"><img src="https://img.shields.io/badge/LINKEDIN-21262D?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <b>amirrezagoleij</b> &#8195;
-  <a href="mailto:contact@amirrezagoleij.com"><img src="https://img.shields.io/badge/EMAIL-21262D?style=for-the-badge&logo=gmail&logoColor=white" /></a> <b>contact@amirrezagoleij.com</b>
+<p align="center">
+  <a href="https://github.com/AmirrezaGoleij"><img src="https://img.shields.io/badge/GITHUB-3A3A3A?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/AmirrezaGoleij"><img src="https://img.shields.io/badge/AMRREZAGOLEIJ-0D1117?style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/amirrezagoleij"><img src="https://img.shields.io/badge/LINKEDIN-3A3A3A?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/amirrezagoleij"><img src="https://img.shields.io/badge/AMIRREZA--GOLEIJ-0D1117?style=for-the-badge" /></a>
+  <a href="mailto:contact@amirrezagoleij.com"><img src="https://img.shields.io/badge/EMAIL-3A3A3A?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:contact@amirrezagoleij.com"><img src="https://img.shields.io/badge/CONTACT%40AMIRREZAGOLEIJ.COM-0D1117?style=for-the-badge" /></a>
 </p>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/PHONE-21262D?style=for-the-badge&logo=whatsapp&logoColor=white" /> <b>0900-9000-854</b>
+<p align="center">
+  <img src="https://img.shields.io/badge/PHONE-3A3A3A?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <img src="https://img.shields.io/badge/0900--9000--854-0D1117?style=for-the-badge" />
 </p>
