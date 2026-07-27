@@ -71,17 +71,18 @@
 ## 📫 Contact
 
 <p align="left">
+  <a href="https://github.com/AmirrezaGoleij">
+    <img src="https://img.shields.io/badge/GITHUB-21262D?style=for-the-badge&logo=github&logoColor=white" />
+  </a>nbsp;<b>AmirrezaGoleij</b>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/amirrezagoleij">
+    <img src="https://img.shields.io/badge/LINKEDIN-21262D?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;<b>amirrezagoleij</b>&nbsp;&nbsp;
   <a href="mailto:contact@amirrezagoleij.com">
-    <img src="https://img.shields.io/badge/Email-contact@amirrezagoleij.com-00E676?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/amirrezagoleij" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-amirrezagoleij-58A6FF?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/AmirrezaGoleij" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-AmirrezaGoleij-FFD600?style=flat-square&logo=github&logoColor=black" />
-  </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Phone-0900--9000--854-8B949E?style=flat-square&logo=whatsapp&logoColor=white" />
+    <img src="https://img.shields.io/badge/EMAIL-21262D?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>&nbsp;<b>contact@amirrezagoleij.com</b>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/PHONE-21262D?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  &nbsp;<b>0900-9000-854</b>
 </p>
